@@ -1,0 +1,73 @@
+syntax = "proto3";
+
+package archway.photosynthesis.v1;
+
+option go_package = "github.com/archway-network/archway/x/photosynthesis/types";
+
+import "gogoproto/gogo.proto";
+import "cosmos/base/v1beta1/coin.proto";
+
+// Params defines the parameters for the photosynthesis module.
+message Params {
+  int64 liquid_staking_interval =
+      1; // Interval for liquid staking (in minutes).
+  int64 arch_liquid_stake_interval =
+      2; // Interval for Archway liquid staking (in minutes).
+  int64 redemption_rate_query_interval =
+      3; // Interval for querying the redemption rate (in minutes).
+  int64 redemption_rate_threshold =
+      4; // Redemption rate threshold for triggering redemption.
+  int64 redemption_interval_threshold =
+      5; // Time threshold for triggering redemption (in minutes).
+  int64 rewards_withdrawal_interval =
+      6; // Interval for withdrawing rewards (in minutes).
+}
+
+// DepositRecord represents a record of a deposit for staking or liquid staking.
+message DepositRecord {
+  string contract_address =
+      1;             // Address of the contract associated with the deposit.
+  int64 amount = 2;  // Amount deposited for staking.
+  string status = 3; // Status of the deposit (e.g., "pending", "completed").
+  // Additional fields can be added as needed for future extensions.
+}
+
+// Contract represents a registered contract in the photosynthesis module.
+message Contract {
+  string address = 1; // Address of the contract.
+  string liquidity_provider_address =
+      2; // Address of the liquidity provider for the contract.
+  string rewards_address = 3; // Address to which rewards will be sent.
+  uint64 minimum_reward_amount =
+      4; // Minimum reward amount required for distribution.
+  uint64 liquid_stake_interval =
+      5; // Interval for liquid staking specific to this contract.
+  int64 redemption_rate_threshold =
+      6; // Redemption rate threshold specific to this contract.
+  uint64 redemption_interval_threshold =
+      7; // Redemption interval threshold for this contract.
+  uint64 rewards_withdrawal_interval =
+      8; // Interval for rewards withdrawal for this contract.
+}
+
+// Coin defines a token with a denomination and an amount.
+message Coin {
+  string denom = 1; // Denomination of the token (e.g., "uarch", "uatom").
+  int64 amount = 2; // Amount of the token.
+}
+
+// Task is an enumeration for identifying the different types of tasks in the
+// module.
+enum Task {
+  TASK_UNSPECIFIED = 0;       // Unspecified task.
+  TASK_LIQUID_STAKING = 1;    // Task related to liquid staking.
+  TASK_ARCH_LIQUID_STAKE = 2; // Task related to Archway liquid staking.
+  TASK_REDEMPTION_RATE_QUERY =
+      3;                       // Task related to querying the redemption rate.
+  TASK_REWARDS_WITHDRAWAL = 4; // Task related to rewards withdrawal.
+}
+
+// DepositRecords is a collection of deposit records for a contract.
+message DepositRecords {
+  repeated DepositRecord records = 1; // A list of deposit records.
+}

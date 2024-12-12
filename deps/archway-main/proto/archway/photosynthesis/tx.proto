@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+package archway.photosynthesis.v1;
+
+option go_package = "github.com/archway-network/archway/x/photosynthesis/types";
+
+import "gogoproto/gogo.proto";
+import "google/protobuf/timestamp.proto";
+import "archway/photosynthesis/photosynthesis.proto";
+
+// Response type for MsgExecuteCronTasks.
+message MsgExecuteCronTasks {
+  // Address of the sender.
+  string creator = 1 [ (gogoproto.moretags) = "yaml:\"creator\"" ];
+}
+
+// Response type for MsgExecuteCronTasks.
+message MsgExecuteCronTasksResponse {}
+
+// MsgResetTotalLiquidStake defines the message for resetting total liquid
+// stake.
+message MsgResetTotalLiquidStake {
+  string creator = 1 [ (gogoproto.moretags) = "yaml:\"creator\"" ];
+}
+
+// Response type for MsgResetTotalLiquidStake.
+message MsgResetTotalLiquidStakeResponse {}
+
+// MsgResetAllCompletedDepositRecords defines the message for resetting all
+// completed deposit records.
+message MsgResetAllCompletedDepositRecords {
+  string creator = 1 [ (gogoproto.moretags) = "yaml:\"creator\"" ];
+}
+
+// Response type for MsgResetAllCompletedDepositRecords.
+message MsgResetAllCompletedDepositRecordsResponse {}
+
+// MsgSetRedeemTokenData defines a message for setting redeem token data.
+message MsgSetRedeemTokenData {
+  string creator = 1; // Address of the creator/initiator of the transaction
+  string contract_address =
+      2; // Contract address for which the redeem token data is set
+  string amount =
+      3; // Amount of redeem tokens (stored as string to handle large numbers)
+}
+
+// MsgSetRedeemTokenDataResponse defines the response after setting redeem token
+// data.
+message MsgSetRedeemTokenDataResponse {}
+
+// MsgClearRedeemTokenData defines a message for clearing all redeem token data.
+message MsgClearRedeemTokenData {
+  string creator = 1; // Address of the creator/initiator of the transaction
+}
+
+// MsgClearRedeemTokenDataResponse defines the response after clearing redeem
+// token data.
+message MsgClearRedeemTokenDataResponse {}
+
+// Service definition for Msg.
+service Msg {
+
+  rpc ExecuteCronTasks(MsgExecuteCronTasks)
+      returns (MsgExecuteCronTasksResponse);
+
+  rpc ResetTotalLiquidStake(MsgResetTotalLiquidStake)
+      returns (MsgResetTotalLiquidStakeResponse);
+
+  rpc ResetAllCompletedDepositRecords(MsgResetAllCompletedDepositRecords)
+      returns (MsgResetAllCompletedDepositRecordsResponse);
+
+  // Set redeem token data for a contract.
+  rpc SetRedeemTokenData(MsgSetRedeemTokenData)
+      returns (MsgSetRedeemTokenDataResponse);
+
+  // Clear all redeem token data.
+  rpc ClearRedeemTokenData(MsgClearRedeemTokenData)
+      returns (MsgClearRedeemTokenDataResponse);
+}

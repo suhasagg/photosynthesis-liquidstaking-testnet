@@ -1,0 +1,556 @@
+code: 0
+codespace: ""
+data: 0A260A242F636F736D7761736D2E7761736D2E76312E4D736745786563757465436F6E7472616374
+events:
+- attributes:
+  - index: true
+    key: c3BlbmRlcg==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: coin_spent
+- attributes:
+  - index: true
+    key: cmVjZWl2ZXI=
+    value: YXJjaHdheTE3eHBmdmFrbTJhbWc5NjJ5bHM2Zjg0ejNrZWxsOGM1bDlqbHlwMg==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: coin_received
+- attributes:
+  - index: true
+    key: cmVjaXBpZW50
+    value: YXJjaHdheTE3eHBmdmFrbTJhbWc5NjJ5bHM2Zjg0ejNrZWxsOGM1bDlqbHlwMg==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: transfer
+- attributes:
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: c3BlbmRlcg==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: coin_spent
+- attributes:
+  - index: true
+    key: cmVjZWl2ZXI=
+    value: YXJjaHdheTEyNDV5dXQ5emh0OHE0aHozOXNkMGx6cXR6a3V3NXVzNTBlOTR5YQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: coin_received
+- attributes:
+  - index: true
+    key: cmVjaXBpZW50
+    value: YXJjaHdheTEyNDV5dXQ5emh0OHE0aHozOXNkMGx6cXR6a3V3NXVzNTBlOTR5YQ==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: transfer
+- attributes:
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: ZmVl
+    value: MjA3NjN1YXJjaA==
+  type: tx
+- attributes:
+  - index: true
+    key: YWNjX3NlcQ==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbS8yMTQ=
+  type: tx
+- attributes:
+  - index: true
+    key: c2lnbmF0dXJl
+    value: S3AxS2hLYm5IUG9rbzYzOXFWRVNpU2p5MFA5SUswa1lSbVltK29WZ3FBRndPdGpTdldBQnpUbExhbHhtMDJTY0JHVXpjMjV5dHFsQzFSbG9sd2loV2c9PQ==
+  type: tx
+- attributes:
+  - index: true
+    key: YWN0aW9u
+    value: L2Nvc213YXNtLndhc20udjEuTXNnRXhlY3V0ZUNvbnRyYWN0
+  type: message
+- attributes:
+  - index: true
+    key: bW9kdWxl
+    value: d2FzbQ==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  type: execute
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTFnaGQ3NTNzaGp1d2V4eHl3bWdzNHh6N3gycTczMnZjbmttNmgycHl2OXM2YWgzaHlsdnJxdmx6ZHBs
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC4zODE1NzQ4MDAyODczMDM3OTQ=
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: MTEwMDQ5MzQx
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTFuYzV0YXRhZnY2ZXlxN2xsa3IyZ3Y1MGZmOWUyMm1uZjcwcWdqbHY3MzdrdG10NGVzd3JxZ2ozM2c2
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC4xNjA2MTk5OTM3OTg3OTE1OQ==
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: NDYzMjQxNDA=
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTE3cDlyendubmZ4Y2pwMzJ1bjl1Zzd5aGh6Z3RraHZsOWpma3N6dGd3NXVoNjl3YWMycGdzc2YwNXA3
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC40NTc4MDUyMDU5MTM5MDQ2MTQ=
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: MTMyMDM0ODIz
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: dG90YWxfcmVkZWVtX3Rva2Vucw==
+    value: Mjg4NDA4MzA0
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-redeem_tokens_distributed
+gas_used: "213264"
+gas_wanted: "251588"
+height: "3813"
+info: ""
+logs:
+- events:
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    type: execute
+  - attributes:
+    - key: action
+      value: /cosmwasm.wasm.v1.MsgExecuteContract
+    - key: module
+      value: wasm
+    - key: sender
+      value: archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m
+    type: message
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway1ghd753shjuwexxywmgs4xz7x2q732vcnkm6h2pyv9s6ah3hylvrqvlzdpl
+    - key: redemption_ratio
+      value: "0.381574800287303794"
+    - key: redeem_tokens_amount
+      value: "110049341"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway1nc5tatafv6eyq7llkr2gv50ff9e22mnf70qgjlv737ktmt4eswrqgj33g6
+    - key: redemption_ratio
+      value: "0.16061999379879159"
+    - key: redeem_tokens_amount
+      value: "46324140"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway17p9rzwnnfxcjp32un9ug7yhhzgtkhvl9jfksztgw5uh69wac2pgssf05p7
+    - key: redemption_ratio
+      value: "0.457805205913904614"
+    - key: redeem_tokens_amount
+      value: "132034823"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    type: wasm-distribute_redeem_tokens
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: total_redeem_tokens
+      value: "288408304"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    type: wasm-redeem_tokens_distributed
+  log: ""
+  msg_index: 0
+raw_log: '[{"events":[{"type":"execute","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"}]},{"type":"message","attributes":[{"key":"action","value":"/cosmwasm.wasm.v1.MsgExecuteContract"},{"key":"module","value":"wasm"},{"key":"sender","value":"archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m"}]},{"type":"wasm-distribute_redeem_tokens","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway1ghd753shjuwexxywmgs4xz7x2q732vcnkm6h2pyv9s6ah3hylvrqvlzdpl"},{"key":"redemption_ratio","value":"0.381574800287303794"},{"key":"redeem_tokens_amount","value":"110049341"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"},{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway1nc5tatafv6eyq7llkr2gv50ff9e22mnf70qgjlv737ktmt4eswrqgj33g6"},{"key":"redemption_ratio","value":"0.16061999379879159"},{"key":"redeem_tokens_amount","value":"46324140"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"},{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway17p9rzwnnfxcjp32un9ug7yhhzgtkhvl9jfksztgw5uh69wac2pgssf05p7"},{"key":"redemption_ratio","value":"0.457805205913904614"},{"key":"redeem_tokens_amount","value":"132034823"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"}]},{"type":"wasm-redeem_tokens_distributed","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"total_redeem_tokens","value":"288408304"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"}]}]}]'
+timestamp: "2024-12-06T13:29:20Z"
+tx:
+  '@type': /cosmos.tx.v1beta1.Tx
+  auth_info:
+    fee:
+      amount:
+      - amount: "20763"
+        denom: uarch
+      gas_limit: "251588"
+      granter: ""
+      payer: ""
+    signer_infos:
+    - mode_info:
+        single:
+          mode: SIGN_MODE_DIRECT
+      public_key:
+        '@type': /cosmos.crypto.secp256k1.PubKey
+        key: AohpIqUnE5Y2SxO8PA45oTW3cdekCJQXBIneNY7UTSeY
+      sequence: "214"
+  body:
+    extension_options: []
+    memo: ""
+    messages:
+    - '@type': /cosmwasm.wasm.v1.MsgExecuteContract
+      contract: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+      funds: []
+      msg:
+        DistributeRedeemTokens: {}
+      sender: archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m
+    non_critical_extension_options: []
+    timeout_height: "0"
+  signatures:
+  - Kp1KhKbnHPoko639qVESiSjy0P9IK0kYRmYm+oVgqAFwOtjSvWABzTlLalxm02ScBGUzc25ytqlC1RlolwihWg==
+txhash: 81CE5DCAA87074B16BFE5E8D8EB2C1D05DBB457501E311353043EF59621A3BD5
+code: 0
+codespace: ""
+data: 0A260A242F636F736D7761736D2E7761736D2E76312E4D736745786563757465436F6E7472616374
+events:
+- attributes:
+  - index: true
+    key: c3BlbmRlcg==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: coin_spent
+- attributes:
+  - index: true
+    key: cmVjZWl2ZXI=
+    value: YXJjaHdheTE3eHBmdmFrbTJhbWc5NjJ5bHM2Zjg0ejNrZWxsOGM1bDlqbHlwMg==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: coin_received
+- attributes:
+  - index: true
+    key: cmVjaXBpZW50
+    value: YXJjaHdheTE3eHBmdmFrbTJhbWc5NjJ5bHM2Zjg0ejNrZWxsOGM1bDlqbHlwMg==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODJ1YXJjaA==
+  type: transfer
+- attributes:
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: c3BlbmRlcg==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: coin_spent
+- attributes:
+  - index: true
+    key: cmVjZWl2ZXI=
+    value: YXJjaHdheTEyNDV5dXQ5emh0OHE0aHozOXNkMGx6cXR6a3V3NXVzNTBlOTR5YQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: coin_received
+- attributes:
+  - index: true
+    key: cmVjaXBpZW50
+    value: YXJjaHdheTEyNDV5dXQ5emh0OHE0aHozOXNkMGx6cXR6a3V3NXVzNTBlOTR5YQ==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  - index: true
+    key: YW1vdW50
+    value: MTAzODF1YXJjaA==
+  type: transfer
+- attributes:
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: ZmVl
+    value: MjA3NjN1YXJjaA==
+  type: tx
+- attributes:
+  - index: true
+    key: YWNjX3NlcQ==
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbS8yMTQ=
+  type: tx
+- attributes:
+  - index: true
+    key: c2lnbmF0dXJl
+    value: S3AxS2hLYm5IUG9rbzYzOXFWRVNpU2p5MFA5SUswa1lSbVltK29WZ3FBRndPdGpTdldBQnpUbExhbHhtMDJTY0JHVXpjMjV5dHFsQzFSbG9sd2loV2c9PQ==
+  type: tx
+- attributes:
+  - index: true
+    key: YWN0aW9u
+    value: L2Nvc213YXNtLndhc20udjEuTXNnRXhlY3V0ZUNvbnRyYWN0
+  type: message
+- attributes:
+  - index: true
+    key: bW9kdWxl
+    value: d2FzbQ==
+  - index: true
+    key: c2VuZGVy
+    value: YXJjaHdheTFuM2Z2Z20zY2s1d3lseDZxNHRzeXdnbGc4MnZ4ZmxqM2g4ZTkwbQ==
+  type: message
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  type: execute
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTFnaGQ3NTNzaGp1d2V4eHl3bWdzNHh6N3gycTczMnZjbmttNmgycHl2OXM2YWgzaHlsdnJxdmx6ZHBs
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC4zODE1NzQ4MDAyODczMDM3OTQ=
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: MTEwMDQ5MzQx
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTFuYzV0YXRhZnY2ZXlxN2xsa3IyZ3Y1MGZmOWUyMm1uZjcwcWdqbHY3MzdrdG10NGVzd3JxZ2ozM2c2
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC4xNjA2MTk5OTM3OTg3OTE1OQ==
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: NDYzMjQxNDA=
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: Y29udHJhY3RfYWRkcmVzcw==
+    value: YXJjaHdheTE3cDlyendubmZ4Y2pwMzJ1bjl1Zzd5aGh6Z3RraHZsOWpma3N6dGd3NXVoNjl3YWMycGdzc2YwNXA3
+  - index: true
+    key: cmVkZW1wdGlvbl9yYXRpbw==
+    value: MC40NTc4MDUyMDU5MTM5MDQ2MTQ=
+  - index: true
+    key: cmVkZWVtX3Rva2Vuc19hbW91bnQ=
+    value: MTMyMDM0ODIz
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-distribute_redeem_tokens
+- attributes:
+  - index: true
+    key: X2NvbnRyYWN0X2FkZHJlc3M=
+    value: YXJjaHdheTE0aGoydGF2cThmcGVzZHd4eGN1NDRydHkzaGg5MHZodWpydmNtc3RsNHpyM3R4bWZ2dzlzeTg1bjJ1
+  - index: true
+    key: dG90YWxfcmVkZWVtX3Rva2Vucw==
+    value: Mjg4NDA4MzA0
+  - index: true
+    key: YmxvY2tfaGVpZ2h0
+    value: MzgxMw==
+  - index: true
+    key: dGltZXN0YW1w
+    value: MTczMzQ5MTc2MA==
+  type: wasm-redeem_tokens_distributed
+gas_used: "213264"
+gas_wanted: "251588"
+height: "3813"
+info: ""
+logs:
+- events:
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    type: execute
+  - attributes:
+    - key: action
+      value: /cosmwasm.wasm.v1.MsgExecuteContract
+    - key: module
+      value: wasm
+    - key: sender
+      value: archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m
+    type: message
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway1ghd753shjuwexxywmgs4xz7x2q732vcnkm6h2pyv9s6ah3hylvrqvlzdpl
+    - key: redemption_ratio
+      value: "0.381574800287303794"
+    - key: redeem_tokens_amount
+      value: "110049341"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway1nc5tatafv6eyq7llkr2gv50ff9e22mnf70qgjlv737ktmt4eswrqgj33g6
+    - key: redemption_ratio
+      value: "0.16061999379879159"
+    - key: redeem_tokens_amount
+      value: "46324140"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: contract_address
+      value: archway17p9rzwnnfxcjp32un9ug7yhhzgtkhvl9jfksztgw5uh69wac2pgssf05p7
+    - key: redemption_ratio
+      value: "0.457805205913904614"
+    - key: redeem_tokens_amount
+      value: "132034823"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    type: wasm-distribute_redeem_tokens
+  - attributes:
+    - key: _contract_address
+      value: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+    - key: total_redeem_tokens
+      value: "288408304"
+    - key: block_height
+      value: "3813"
+    - key: timestamp
+      value: "1733491760"
+    type: wasm-redeem_tokens_distributed
+  log: ""
+  msg_index: 0
+raw_log: '[{"events":[{"type":"execute","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"}]},{"type":"message","attributes":[{"key":"action","value":"/cosmwasm.wasm.v1.MsgExecuteContract"},{"key":"module","value":"wasm"},{"key":"sender","value":"archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m"}]},{"type":"wasm-distribute_redeem_tokens","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway1ghd753shjuwexxywmgs4xz7x2q732vcnkm6h2pyv9s6ah3hylvrqvlzdpl"},{"key":"redemption_ratio","value":"0.381574800287303794"},{"key":"redeem_tokens_amount","value":"110049341"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"},{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway1nc5tatafv6eyq7llkr2gv50ff9e22mnf70qgjlv737ktmt4eswrqgj33g6"},{"key":"redemption_ratio","value":"0.16061999379879159"},{"key":"redeem_tokens_amount","value":"46324140"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"},{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"contract_address","value":"archway17p9rzwnnfxcjp32un9ug7yhhzgtkhvl9jfksztgw5uh69wac2pgssf05p7"},{"key":"redemption_ratio","value":"0.457805205913904614"},{"key":"redeem_tokens_amount","value":"132034823"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"}]},{"type":"wasm-redeem_tokens_distributed","attributes":[{"key":"_contract_address","value":"archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u"},{"key":"total_redeem_tokens","value":"288408304"},{"key":"block_height","value":"3813"},{"key":"timestamp","value":"1733491760"}]}]}]'
+timestamp: "2024-12-06T13:29:20Z"
+tx:
+  '@type': /cosmos.tx.v1beta1.Tx
+  auth_info:
+    fee:
+      amount:
+      - amount: "20763"
+        denom: uarch
+      gas_limit: "251588"
+      granter: ""
+      payer: ""
+    signer_infos:
+    - mode_info:
+        single:
+          mode: SIGN_MODE_DIRECT
+      public_key:
+        '@type': /cosmos.crypto.secp256k1.PubKey
+        key: AohpIqUnE5Y2SxO8PA45oTW3cdekCJQXBIneNY7UTSeY
+      sequence: "214"
+  body:
+    extension_options: []
+    memo: ""
+    messages:
+    - '@type': /cosmwasm.wasm.v1.MsgExecuteContract
+      contract: archway14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sy85n2u
+      funds: []
+      msg:
+        DistributeRedeemTokens: {}
+      sender: archway1n3fvgm3ck5wylx6q4tsywglg82vxflj3h8e90m
+    non_critical_extension_options: []
+    timeout_height: "0"
+  signatures:
+  - Kp1KhKbnHPoko639qVESiSjy0P9IK0kYRmYm+oVgqAFwOtjSvWABzTlLalxm02ScBGUzc25ytqlC1RlolwihWg==
+txhash: 81CE5DCAA87074B16BFE5E8D8EB2C1D05DBB457501E311353043EF59621A3BD5

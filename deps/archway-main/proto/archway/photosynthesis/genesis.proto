@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package archway.photosynthesis.v1;
+
+option go_package = "github.com/archway-network/archway/x/photosynthesis/types";
+
+import "gogoproto/gogo.proto";
+import "cosmos/base/v1beta1/coin.proto";
+import "archway/photosynthesis/photosynthesis.proto"; // Importing photosynthesis.proto
+
+// GenesisState defines the initial state of the photosynthesis module.
+message GenesisState {
+  // Params for the photosynthesis module
+  Params params = 1 [ (gogoproto.nullable) = false ];
+
+  // deposit_records defines a list of all deposit records.
+  repeated DepositRecord deposit_records = 2 [ (gogoproto.nullable) = false ];
+
+  // contracts defines a list of all registered contracts.
+  repeated Contract contracts = 3 [ (gogoproto.nullable) = false ];
+
+  // cumulative_liquidity_amount defines the cumulative liquidity amount for all
+  // contracts.
+  cosmos.base.v1beta1.Coin cumulative_liquidity_amount = 5
+      [ (gogoproto.nullable) = false ];
+}

@@ -1,0 +1,152 @@
+syntax = "proto3";
+
+package archway.photosynthesis.v1;
+
+option go_package = "github.com/archway-network/archway/x/photosynthesis/types";
+
+import "gogoproto/gogo.proto";
+import "google/protobuf/timestamp.proto";
+import "cosmos/base/query/v1beta1/pagination.proto";
+import "cosmos/base/v1beta1/coin.proto";
+import "google/api/annotations.proto"; // For HTTP annotation support
+import "archway/photosynthesis/photosynthesis.proto";
+
+// Query defines the gRPC querier service.
+service Query {
+  rpc Params(QueryParamsRequest) returns (QueryParamsResponse) {
+    option (google.api.http) = {
+      get : "/archway/photosynthesis/v1/params"
+    };
+  }
+
+  rpc TotalLiquidStake(QueryTotalLiquidStakeRequest)
+      returns (QueryTotalLiquidStakeResponse) {
+    option (google.api.http) = {
+      get : "/archway/photosynthesis/v1/total_liquid_stake"
+    };
+  }
+
+  rpc DepositRecords(QueryDepositRecordsRequest)
+      returns (QueryDepositRecordsResponse) {
+    option (google.api.http) = {
+      get : "/archway/photosynthesis/v1/deposit_records/{contract_address}"
+    };
+  }
+
+  rpc RedemptionRateThreshold(QueryRedemptionRateThresholdRequest)
+      returns (QueryRedemptionRateThresholdResponse) {
+    option (google.api.http) = {
+      get : "/archway/photosynthesis/v1/redemption_rate_threshold"
+    };
+  }
+
+  rpc RedemptionIntervalThreshold(QueryRedemptionIntervalThresholdRequest)
+      returns (QueryRedemptionIntervalThresholdResponse) {
+    option (google.api.http) = {
+      get : "/archway/photosynthesis/v1/redemption_interval_threshold"
+    };
+  }
+
+  rpc StakeRatio(QueryStakeRatioRequest) returns (QueryStakeRatioResponse);
+
+  rpc AllStakeRatios(QueryAllStakeRatiosRequest)
+      returns (QueryAllStakeRatiosResponse);
+
+  rpc RedeemTokenRatios(QueryRedeemTokenRatiosRequest)
+      returns (QueryRedeemTokenRatiosResponse);
+
+  // Query the total redemption amount.
+  rpc TotalRedemptionAmount(QueryTotalRedemptionAmountRequest)
+      returns (QueryTotalRedemptionAmountResponse);
+}
+
+// QueryParamsRequest is the request type for the Query/Params RPC method.
+message QueryParamsRequest {}
+
+// QueryParamsResponse is the response type for the Query/Params RPC method.
+message QueryParamsResponse {
+  Params params = 1 [ (gogoproto.nullable) = false ];
+}
+
+// QueryTotalLiquidStakeRequest is the request type for the
+// Query/TotalLiquidStake RPC method.
+message QueryTotalLiquidStakeRequest {}
+
+// QueryTotalLiquidStakeResponse is the response type for the
+// Query/TotalLiquidStake RPC method.
+message QueryTotalLiquidStakeResponse { string total_liquid_stake = 1; }
+
+// QueryDepositRecordsRequest is the request type for the Query/DepositRecords
+// RPC method.
+message QueryDepositRecordsRequest {
+  string contract_address = 1;
+  cosmos.base.query.v1beta1.PageRequest pagination = 2;
+}
+
+// QueryDepositRecordsResponse is the response type for the Query/DepositRecords
+// RPC method.
+message QueryDepositRecordsResponse {
+  repeated DepositRecord deposit_records = 1;
+  cosmos.base.query.v1beta1.PageResponse pagination = 2;
+}
+
+// QueryRedemptionRateThresholdRequest is the request type for the
+// Query/RedemptionRateThreshold RPC method.
+message QueryRedemptionRateThresholdRequest {}
+
+// QueryRedemptionRateThresholdResponse is the response type for the
+// Query/ RPC method.
+message QueryRedemptionRateThresholdResponse {
+  int64 redemption_rate_threshold = 1;
+}
+
+// QueryRedemptionIntervalThresholdRequest is the request type for the
+// Query/RedemptionIntervalThreshold RPC method.
+message QueryRedemptionIntervalThresholdRequest {}
+
+// QueryRedemptionIntervalThresholdResponse is the response type for the
+// Query/RedemptionIntervalThreshold RPC method.
+message QueryRedemptionIntervalThresholdResponse {
+  int64 redemption_interval_threshold = 1;
+}
+
+message QueryStakeRatioRequest { string contract_address = 1; }
+
+message QueryStakeRatioResponse {
+  string contract_address = 1;
+  string stake_ratio = 2;
+}
+
+message QueryAllStakeRatiosRequest {}
+
+message QueryAllStakeRatiosResponse { repeated StakeRatio stake_ratios = 1; }
+
+message StakeRatio {
+  string contract_address = 1;
+  string stake_ratio = 2;
+}
+
+message QueryRedeemTokenRatiosRequest {}
+
+message RedeemTokenRatio {
+  string contract_address = 1;
+  string redeem_ratio = 2;
+}
+
+message QueryRedeemTokenRatiosResponse {
+  repeated RedeemTokenRatio redeem_ratios = 1;
+}
+
+// Query request for all redeem token ratios.
+message QueryAllRedeemTokenRatiosRequest {}
+
+// Query response containing all redeem token ratios.
+message QueryAllRedeemTokenRatiosResponse {
+  repeated RedeemTokenRatio redeem_token_ratios = 1;
+}
+
+// Query request for total redemption amount.
+message QueryTotalRedemptionAmountRequest {}
+
+// Query response for total redemption amount.
+message QueryTotalRedemptionAmountResponse { string total_amount = 1; }
