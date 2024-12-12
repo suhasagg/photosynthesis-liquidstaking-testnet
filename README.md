@@ -31,7 +31,7 @@ build/archwayd tx --home /home/keanu-xbox/photov10/Photosynthesis-Dorahacks-web3
 /home/keanu-xbox/photov10/Photosynthesis-Dorahacks-web3-competition-winner/photosynthesisv13/photosynthesis-main/sap-with-full-liquid-stake-redemption-workflow/deps/archway-main/contrib/localnet/opt/contract-metadata.sh
 
 //Deploy Dapp2
-
+(WASM files path - photosynthesis-liquidstaking-testnet/deps/archway-main/contrib/localnet/opt)
 ./Dappsimulationadserver.sh
 
 //Register Dapp metadata in photosynthesis liquid staking smart contract 
