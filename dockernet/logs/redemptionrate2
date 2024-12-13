@@ -1,0 +1,3075 @@
+host_zone: []
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "0"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "0"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "1729022"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "1729022"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.000000000000000000"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.000000000000000000"
+  staked_bal: "10391203"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10391203"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.003142330727423012"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.003142330727423012"
+  staked_bal: "10423867"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10423867"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.003142330727423012"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.007341772833517378"
+  staked_bal: "10471168"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10471168"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.009388373310363425"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.011680942348798228"
+  staked_bal: "10497308"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10497308"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.011680942348798228"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.014017839384048328"
+  staked_bal: "10550496"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10550496"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.014751806574659865"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.015570409583572585"
+  staked_bal: "10574612"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "10574612"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.015570409583572585"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.016294833082246701"
+  staked_bal: "29654992"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "29654992"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.017220004209043495"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.019522153205875641"
+  staked_bal: "29684340"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "29684340"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.019522153205875641"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.021553411159035816"
+  staked_bal: "29821320"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "29821320"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.023594094749738932"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.025740463627333371"
+  staked_bal: "29887507"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "29887507"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.025740463627333371"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.028115139464619751"
+  staked_bal: "30033180"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "30033180"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.029095903773428161"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.030254777638959796"
+  staked_bal: "30101274"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "30101274"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.030254777638959796"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.031313486259278924"
+  staked_bal: "63506887"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "63506887"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.032572446722183526"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.034475053449600899"
+  staked_bal: "63591675"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "63591675"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.034475053449600899"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.036809530816906484"
+  staked_bal: "63874381"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "63874381"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.039099886607460441"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.041133456944964557"
+  staked_bal: "64031535"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "64031535"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.041133456944964557"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.043202096255803405"
+  staked_bal: "64314081"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "64314081"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.044565044820478494"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.045737605818518759"
+  staked_bal: "64474081"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "64474081"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.045737605818518759"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.047061365041436691"
+  staked_bal: "112043808"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "112043808"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.048435055246052713"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.050528515375338755"
+  staked_bal: "112206586"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "112206586"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.050528515375338755"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.053092046866106595"
+  staked_bal: "112746487"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "112746487"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.055090814466046520"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.057265879835340491"
+  staked_bal: "112991085"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "112991085"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.057265879835340491"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.059571265210918721"
+  staked_bal: "113520853"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "113520853"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.060894812609129608"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.062378701385135711"
+  staked_bal: "113771642"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "113771642"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.062378701385135711"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.063734785439521215"
+  staked_bal: "179526510"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "179526510"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.065272160528314340"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.067557538464166017"
+  staked_bal: "179811484"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "179811484"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.067557538464166017"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.069821663641424157"
+  staked_bal: "180651523"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "180651523"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.071953659908610394"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.074168336595547510"
+  staked_bal: "181054189"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "181054189"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.074168336595547510"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.076828803428062219"
+  staked_bal: "181959700"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "181959700"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.078018686211586248"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.079353547805724074"
+  staked_bal: "182326789"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "182326789"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.079353547805724074"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.080921650799733314"
+  staked_bal: "288125030"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "288125030"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.082316894922453789"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.084548372017456347"
+  staked_bal: "288543502"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "288543502"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.084548372017456347"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.086982887678419820"
+  staked_bal: "289895530"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "289895530"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.089117508864701172"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.091469739407565251"
+  staked_bal: "290537253"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "290537253"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.091469739407565251"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.093842608677899334"
+  staked_bal: "291931504"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "291931504"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.095313823249820466"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.096875256336853934"
+  staked_bal: "292552867"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "292552867"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.096875256336853934"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.098562754631740095"
+  staked_bal: "411486743"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "411486743"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.100201706822795785"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.102466036216301062"
+  staked_bal: "412171092"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "412171092"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.102466036216301062"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.104662888376270227"
+  staked_bal: "414005760"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "414005760"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.107054244846656237"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.109070988310179535"
+  staked_bal: "414993908"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "414993908"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.109070988310179535"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.111409205081473997"
+  staked_bal: "416811013"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "416811013"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.112883136518547932"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.114692163791898099"
+  staked_bal: "417656333"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "417656333"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.114692163791898099"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.116269097411483358"
+  staked_bal: "566491206"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "566491206"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.117953714940844866"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.120392478225346922"
+  staked_bal: "567435335"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "567435335"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: false
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.120392478225346922"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.122437635814473097"
+  staked_bal: "569944977"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "569944977"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "4506436"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "4506436"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
+host_zone:
+- address: stride19467hx6r0qkj5crjff3yr38uzts5hwj7detdw4tr0qdsc5rufelsm88tag
+  bech32prefix: archway
+  blacklisted_validators: []
+  chain_id: localnet
+  connection_id: connection-0
+  delegation_account:
+    address: archway10nesp8knkxa23ctjjfm6h40ks6kzh2snx3w9mly3g3jtza4nz54sjum9g2
+    target: DELEGATION
+  fee_account:
+    address: archway1umj7yxl3zpmrcfqh8e4f8kdywdd98xkq249glqsxkywk8euqdzts46zcs8
+    target: FEE
+  halted: true
+  host_denom: uarch
+  ibc_denom: ibc/622C9E60DF523F11A01E78C105756CE51729296F483B4609DABC060A2CA148EA
+  last_redemption_rate: "1.124644262564628117"
+  max_redemption_rate: "1.500000000000000000"
+  min_redemption_rate: "0.900000000000000000"
+  redemption_account:
+    address: archway17usj7fzjgkaynyrfz7tlq2xycx6fjfsqn7s6d6csychf8mh4gluqrn9far
+    target: REDEMPTION
+  redemption_rate: "1.809113386884290438"
+  staked_bal: "5731832"
+  transfer_channel_id: channel-0
+  unbonding_frequency: "1"
+  validators:
+  - address: archwayvaloper15js809uedxqs2wl0lyt58httasr5rlplj45fqw
+    delegation_amt: "5731832"
+    internal_exchange_rate: null
+    name: pval1
+    weight: "5"
+  withdrawal_account:
+    address: archway17gq2ce265gq86x3t3tr4ljvv56js82c03djqkrg2ec66w3t8y35qwl0qlx
+    target: WITHDRAWAL
+pagination:
+  next_key: null
+  total: "0"
