@@ -102,7 +102,7 @@ for CONTRACT_ADDR in "${!contractToRewardsAddress[@]}"; do
     CLAIM_OUTPUT=$(eval $CLAIM_CMD)
     echo "$CLAIM_OUTPUT" | jq -R -c '{"claim_output": .}'
     sleep 5
-    TOTAL_REWARDS=$((TOTAL_REWARDS / 1000))
+    # TOTAL_REWARDS=$((TOTAL_REWARDS / 1000))
     # Add to updates array
     updates+=("{\"contract_address\":\"$CONTRACT_ADDR\",\"amount\":\"$TOTAL_REWARDS\"}")
 done
