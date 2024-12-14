@@ -7,6 +7,7 @@ make start-docker build=sp
 //Deploy photosynthesis liquid staking smart contract 
 
 build/archwayd --home /home/keanu-xbox/photov10/Photosynthesis-Dorahacks-web3-competition-winner/photosynthesisv13/photosynthesis-main/sap-with-full-liquid-stake-redemption-workflow/dockernet/state/photo1 tx wasm store /home/keanu-xbox/smartcontractlogs/liquidstakingv2/liquidstaking/artifacts/cosmwasm_liquid_staking.wasm --from pval5 --keyring-backend test --fees 500000uarch --gas 2000000 --chain-id localnet -y
+
 build/archwayd tx --home /home/keanu-xbox/photov10/Photosynthesis-Dorahacks-web3-competition-winner/photosynthesisv13/photosynthesis-main/sap-with-full-liquid-stake-redemption-workflow/dockernet/state/photo1 wasm instantiate 1 '{
      "liquid_staking_interval": 100,
      "arch_liquid_stake_interval": 150,
