@@ -524,7 +524,7 @@ main() {
     fi
   done
 
-  TOTAL_REDEEM_AMOUNT = $((TOTAL_REDEEM_AMOUNT / 3))
+  # TOTAL_REDEEM_AMOUNT = $((TOTAL_REDEEM_AMOUNT / 3))
   echo "Total Liquidity Balance: $TOTAL_LIQUIDITY_BALANCE" | jq -R -c '{"message": .}' >&2
   echo "Total Redemption Amount: $TOTAL_REDEEM_AMOUNT" | jq -R -c '{"message": .}' >&2
   
